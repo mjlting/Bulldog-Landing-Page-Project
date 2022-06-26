@@ -1,1 +1,1 @@
-# Bulldog Landing Page Project
+Bulldog Landing Page Project
